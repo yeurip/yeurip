@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @yeurip
-- 👀 I’m interested in CyberSecurity...
-- 🌱 I’m currently Learning Vulnerability mamagement
+- 👋 Hi, I’m Yeuri
+- 👀 I’m interested in CyberSecurity and CLoud
 
 
 <!---
